@@ -1,0 +1,3 @@
+From here run
+
+cmake ..
