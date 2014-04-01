@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+_build/CMakeCache.txt
+_build/CMakeFiles/
+_build/Makefile
+_build/cmake_install.cmake
+_build/install_manifest.txt
+_build/mypizza
+_install/bin/
